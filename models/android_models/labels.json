@@ -1,0 +1,44 @@
+{
+  "soy": {
+    "bacterial blight": 0,
+    "frogeye": 1,
+    "healthy": 2,
+    "soy rust": 3
+  },
+  "corn": {
+    "leaf blight": 0,
+    "common rust": 1,
+    "gray leaf spot": 2,
+    "healthy": 3
+  },
+  "rice": {
+    "bacterial blight": 0,
+    "blast": 1,
+    "brown spot": 2,
+    "healthy": 3,
+    "tungro": 4
+  },
+  "potato": {
+    "Bacteria": 0,
+    "Fungi": 1,
+    "Healthy": 2,
+    "Nematode": 3,
+    "Pest": 4,
+    "Phytopthora": 5,
+    "Virus": 6
+  },
+  "wheat": {
+    "BlackPoint": 0,
+    "FusariumFootRot": 1,
+    "HealthyLeaf": 2,
+    "LeafBlight": 3,
+    "WheatBlast": 4
+  },
+  "all": {
+    "soy": 0,
+    "corn": 1,
+    "rice": 2,
+    "potato": 3,
+    "wheat": 4
+  }
+}

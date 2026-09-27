@@ -1,0 +1,23 @@
+# ---- Datasets (≈44 GB of pickles + raw images) ----
+models/*.pkl
+models/data/
+
+# ---- Model artifacts ----
+models/outputs/**/checkpoints/
+models/outputs/**/logs/
+*.pth
+*.pt
+*.ptl
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ---- Editors / OS ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
